@@ -516,6 +516,8 @@ class FrozenInvoice:
 invoice = FrozenInvoice(500, 3)
 print(invoice.price)    
 print(invoice.quantity)  
-print(invoice.total)     
+print(invoice.total)   
+
+print("Hello")
 
 
